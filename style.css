@@ -114,3 +114,8 @@ span.new {
         font-size: 0.8rem;
     }
 }
+
+i {
+    font-size: 23px;
+    margin-bottom: 10px;
+}
