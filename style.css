@@ -42,6 +42,24 @@ ul {
     list-style-type: none;
 }
 
+#last-video {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10vh;
+}
+
+#last-video span {
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 3vh;
+}
+
+#last-video iframe {
+    width: 25vw;
+    height: 25vh;
+}
+
 section ul {
     margin-top: 4rem;
     display: grid;
@@ -112,6 +130,11 @@ span.new {
         top: -0.8rem;
         right: 1rem;
         font-size: 0.8rem;
+    }
+
+    #last-video iframe {
+        width: 70vw;
+        height: 25vh;
     }
 }
 
