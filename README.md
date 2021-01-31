@@ -4,7 +4,7 @@ This is a responsive page made with HTML and CSS that shows all my network's lin
 
 ### Web Version
 
-![Web version](http://url/to/img.png)
+![Web version](https://github.com/giovannamoeller/links/blob/main/assets/WebVersion.png)
 
 ### Mobile Version
 
