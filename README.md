@@ -11,4 +11,4 @@ This is a responsive page made with HTML and CSS that shows all my network's lin
 <img src="https://github.com/giovannamoeller/links/blob/main/assets/MobileVersion.gif" width="250" height="400" alt="Mobile Version"/>
 
 ## How to run the project
-Clone the project and open the file `index.html` or access by the link: ![Project link](https://giovannamoeller.github.io/links)
+Clone the project and open the file `index.html` or access by the link: [Project link](https://giovannamoeller.github.io/links)
