@@ -136,6 +136,10 @@ span.new {
         width: 70vw;
         height: 25vh;
     }
+
+    #last-video {
+        margin-top: 7vh;
+    }
 }
 
 i {
